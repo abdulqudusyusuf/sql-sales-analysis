@@ -90,4 +90,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
    - Focus on targeted win-back campaigns for high-value churned customers
    - Implement proactive intervention system for at-risk customers before they lapse
 
-## Technical Details - **Database:** PostgreSQL - **Analysis Tools:** PostgreSQL, DBeaver, PGadmin - **Visualization:** ChatGPT
+## Technical Details
+- **Database:** PostgreSQL
+- **Analysis Tools:** PostgreSQL, DBeaver, PGadmin
+- **Visualization:** ChatGPT
