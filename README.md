@@ -89,3 +89,5 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
    - Strengthen first 1-2 year engagement with onboarding incentives and loyalty rewards
    - Focus on targeted win-back campaigns for high-value churned customers
    - Implement proactive intervention system for at-risk customers before they lapse
+
+## Technical Details - **Database:** PostgreSQL - **Analysis Tools:** PostgreSQL, DBeaver, PGadmin - **Visualization:** ChatGPT
